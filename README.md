@@ -67,3 +67,8 @@
 ## 仕事用アカウント ([Yuto-Yara](https://github.com/Yuto-Yara))
 
 <img src="https://ghchart.rshah.org/Yuto-Yara" alt="Yuto-Yara's GitHub Contribution Chart" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://jandee.vercel.app/Yuto-Yara?scheme=dark" />
+  <img src="https://jandee.vercel.app/Yuto-Yara?scheme=light" alt="Yuto-Yara's GitHub Contributions" />
+</picture>
