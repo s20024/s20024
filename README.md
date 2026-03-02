@@ -1,6 +1,6 @@
 # やら ゆうと (s20024)
 
-プログラマー歴2年の初心者フロントエンドエンジニアです。  
+プログラマー(実務)歴2年の初心者フロントエンドエンジニアです。  
 たまにバックエンドもしています。
 
 [<img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />](https://x.com/s20024itcollege)
