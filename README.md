@@ -64,6 +64,12 @@
 
 ただの技術ブログ?日常ブログ?個人メモ?です。`Programng + Blog = Plog`す。
 
+### [ProfileMcp](https://backend.s20024.com/mcp/profile)
+
+MCPのurlは「`https://backend.s20024.com/mcp/profile`」です。  
+AIを通して`うちの会社はPHPで主に開発を行っていますが、屋良さんはうちの会社に向いていますか？`のように質問できます。  
+　　※AIは基本的にプラス思考なので、、、お気をつけください。
+
 ## 仕事用アカウント ([Yuto-Yara](https://github.com/Yuto-Yara))
 
 <img src="https://ghchart.rshah.org/Yuto-Yara" alt="Yuto-Yara's GitHub Contribution Chart" />
