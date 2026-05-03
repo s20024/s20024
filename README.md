@@ -62,7 +62,8 @@
 
 ### [s20024's Plog <img alt="Plog" src="https://plog.s20024.com/favicon.ico" width="24" height="24" /> ](https://plog.s20024.com)
 
-ただの技術ブログ?日常ブログ?個人メモ?です。`Programng + Blog = Plog`す。
+ただの技術ブログ?日常ブログ?個人メモ?です。※`Programng + Blog = Plog`です。  
+[チャット](https://plog.s20024.com/chat)にて下記↓↓にて記載しているMCPを利用したAIAgentと会話ができます。気になる方はご利用してみてください。※僕の紹介を「ずんだもん」が行ってくれます。
 
 ### [ProfileMcp](https://backend.s20024.com/mcp/profile)
 
