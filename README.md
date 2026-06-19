@@ -3,8 +3,8 @@
 プログラマー(実務)歴3年の初心者フロントエンドエンジニアです。  
 たまにバックエンドもしています。
 
-[<img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />](https://x.com/s20024itcollege)
-[<img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:s20024@std.it-college.ac.jp)
+[<code><img height="20" src="images/x.svg" alt="x" /></code>](https://x.com/s20024itcollege)
+[<code><img height="20" src="images/gmail.svg" alt="gmail" /></code>](mailto:s20024@std.it-college.ac.jp)
 
 > このアカウントは`勉強用アカウント`です。  
 > `仕事用アカウント`は[@Yuto-Yara](https://github.com/Yuto-Yara)になります。  
@@ -19,57 +19,58 @@
 
 ## 技術スタック
 
-### **Languages**
+#### **Languages**
 
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />  
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<code><img height="20" src="images/typescript.svg" alt="typescript" /></code>
+<code><img height="20" src="images/javascript.svg" alt="javascript" /></code>
+<code><img height="20" src="images/html.svg" alt="html" /></code>
+<code><img height="20" src="images/css.svg" alt="css" /></code>
+<code><img height="20" src="images/sass.svg" alt="sass" /></code>
+<code><img height="20" src="images/php.svg" alt="php" /></code>  
+実務経験浅い/趣味:
+<code><img height="20" src="images/python.svg" alt="python" /></code>
+<code><img height="20" src="images/swift.svg" alt="swift" /></code>
+<code><img height="20" src="images/java.svg" alt="java" /></code>
+<code><img height="20" src="images/dart.svg" alt="dart" /></code>
 
-  実務経験浅い/趣味:
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-437291?style=flat-square&logo=openjdk&logoColor=white" />
-</p>
+#### **Frameworks / Libraries**
 
-### **Frameworks / Libraries**
+<code><img height="20" src="images/laravel.svg" alt="laravel" /></code>
+<code><img height="20" src="images/vue.svg" alt="vue" /></code>
+<code><img height="20" src="images/ionic.svg" alt="ionic" /></code>
+<code><img height="20" src="images/capacitor.svg" alt="capacitor" /></code>
+<code><img height="20" src="images/angular.svg" alt="angular" /></code>
+<code><img height="20" src="images/nodejs.svg" alt="nodejs" /></code>  
+実務経験浅い/趣味:
+<code><img height="20" src="images/astro.svg" alt="astro" /></code>
+<code><img height="20" src="images/react.svg" alt="react" /></code>
+<code><img height="20" src="images/nextjs.svg" alt="nextjs" /></code>
+<code><img height="20" src="images/express.svg" alt="express" /></code>
+<code><img height="20" src="images/threejs.svg" alt="threejs" /></code>
+<code><img height="20" src="images/hono.svg" alt="hono" /></code>
+<code><img height="20" src="images/flutter.svg" alt="flutter" /></code>
 
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="Ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" />
-  <img alt="Capacitor" src="https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+#### **Tools**
 
-  実務経験浅い/趣味:
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Astro" src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img alt="Three.js" src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-</p>
-
-### **Infrastructure**
-
-<p>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-</p>
+<code><img height="20" src="images/neovim.svg" alt="neovim" /></code>
+<code><img height="20" src="images/vscode.svg" alt="vscode" /></code>
+<code><img height="20" src="images/aws.svg" alt="aws" /></code>
+<code><img height="20" src="images/firebase.svg" alt="firebase" /></code>
+<code><img height="20" src="images/mysql.svg" alt="mysql" /></code>
+<code><img height="20" src="images/docker.svg" alt="docker" /></code>
+<code><img height="20" src="images/vagrant.svg" alt="vagrant" /></code>
 
 ## Products
 
-### [s20024's Plog <img alt="Plog" src="https://plog.s20024.com/favicon.ico" width="24" height="24" /> ](https://plog.s20024.com)
+### [<code><img alt="Plog" src="https://plog.s20024.com/favicon.ico" width="24" height="24" /></code>s20024's Plog](https://plog.s20024.com)
 
 ただの技術ブログ?日常ブログ?個人メモ?です。※`Programng + Blog = Plog`です。  
 [チャット](https://plog.s20024.com/chat)にて下記↓↓にて記載しているMCPを利用したAIAgentと会話ができます。気になる方はご利用してみてください。※僕の紹介を「ずんだもん」が行ってくれます。
 
-### [ProfileMcp](https://backend.s20024.com/mcp/profile)
+### [<label style="display: flex;">ProfileMcp</label>](https://backend.s20024.com/mcp/profile)
 
 MCPのurlは「`https://backend.s20024.com/mcp/profile`」です。  
-AIを通して`うちの会社はPHPで主に開発を行っていますが、屋良さんはうちの会社に向いていますか？`のように質問できます。  
-　　※AIは基本的にプラス思考なので、、、お気をつけください。
+AIを通して`うちの会社は主にPHPで開発を行っていますが、屋良さんはうちの会社に向いていますか？`のように質問してみてください。
 
 ## 仕事用アカウント ([Yuto-Yara](https://github.com/Yuto-Yara))
 
