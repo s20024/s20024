@@ -54,6 +54,8 @@
 
 <code><img height="20" src="images/neovim.svg" alt="neovim" /></code>
 <code><img height="20" src="images/vscode.svg" alt="vscode" /></code>
+<code><img height="20" src="images/copilot.svg" alt="github copilot" /></code>
+<code><img height="20" src="images/claude-code.svg" alt="claude code" /></code>
 <code><img height="20" src="images/aws.svg" alt="aws" /></code>
 <code><img height="20" src="images/firebase.svg" alt="firebase" /></code>
 <code><img height="20" src="images/mysql.svg" alt="mysql" /></code>
