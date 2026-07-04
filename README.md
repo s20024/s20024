@@ -69,7 +69,7 @@
 ただの技術ブログ?日常ブログ?個人メモ?です。※`Programng + Blog = Plog`です。  
 [チャット](https://plog.s20024.com/chat)にて下記↓↓にて記載しているMCPを利用したAIAgentと会話ができます。気になる方はご利用してみてください。※僕の紹介を「ずんだもん」が行ってくれます。
 
-### [<label style="display: flex;">ProfileMcp</label>](https://backend.s20024.com/mcp/profile)
+### [<code><img alt="MCP" src="images/mcp.svg" width="24" height="24" /></code>ProfileMcp](https://backend.s20024.com/mcp/profile)
 
 MCPのurlは「`https://backend.s20024.com/mcp/profile`」です。  
 AIを通して`うちの会社は主にPHPで開発を行っていますが、屋良さんはうちの会社に向いていますか？`のように質問してみてください。
