@@ -74,6 +74,11 @@
 MCPのurlは「`https://backend.s20024.com/mcp/profile`」です。  
 AIを通して`うちの会社は主にPHPで開発を行っていますが、屋良さんはうちの会社に向いていますか？`のように質問してみてください。
 
+### [<code><img alt="Junks" src="https://s20024.github.io/Junks/favicon.ico" width="24" height="24" /></code>Junks](https://s20024.github.io/Junks)
+
+Junksは、「勉強の合間に作成したもの」や「学生の頃に作成した作品」、「もう利用しなくなったサイト」などを残しておく用のいわゆる`ガラクタ置き場`になります。  
+それぞれ動作する状況で、これまでの作品を置いておく場として作成しています。
+
 ## 仕事用アカウント ([Yuto-Yara](https://github.com/Yuto-Yara))
 
 <img src="https://ghchart.rshah.org/Yuto-Yara" alt="Yuto-Yara's GitHub Contribution Chart" />
