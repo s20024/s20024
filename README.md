@@ -64,9 +64,14 @@
 
 ## Products
 
-### [<code><img alt="Plog" src="https://plog.s20024.com/favicon.ico" width="24" height="24" /></code>s20024's Plog](https://plog.s20024.com)
+### [<code><img alt="Portfolio" src="https://portfolio.s20024.com/favicon.ico" width="24" height="24" /></code>Portfolio](https://portfolio.s20024.com)
 
-ただの技術ブログ?日常ブログ?個人メモ?です。※`Programng + Blog = Plog`です。  
+s20024のポートフォリオになります。よかったら見ていってください。  
+three.jsとReactを用いて自分のDeskを3D表現してみました。  
+
+### [<code><img alt="Plog" src="https://plog.s20024.com/favicon.ico" width="24" height="24" /></code>Plog](https://plog.s20024.com)
+
+ただの技術ブログ?日常ブログ?個人メモ?です。※`Programing + Blog = Plog`です。  
 [チャット](https://plog.s20024.com/chat)にて下記↓↓にて記載しているMCPを利用したAIAgentと会話ができます。気になる方はご利用してみてください。※僕の紹介を「ずんだもん」が行ってくれます。
 
 ### [<code><img alt="MCP" src="images/mcp.svg" width="24" height="24" /></code>ProfileMcp](https://backend.s20024.com/mcp/profile)
