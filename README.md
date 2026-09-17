@@ -7,7 +7,6 @@
 [<code><img height="20" src="images/gmail.svg" alt="gmail" /></code>](mailto:s20024@std.it-college.ac.jp)
 
 > このアカウントは`勉強用アカウント`です。  
-> `仕事用アカウント`は[@Yuto-Yara](https://github.com/Yuto-Yara)になります。  
 > ※ 2025の中旬からGit管理を徐々に、Githubに移行していってます。
 
 ## 現在の学習内容/目標
@@ -83,7 +82,3 @@ AIを通して`うちの会社は主にPHPで開発を行っていますが、�
 
 Junksは、「勉強の合間に作成したもの」や「学生の頃に作成した作品」、「もう利用しなくなったサイト」などを残しておく用のいわゆる`ガラクタ置き場`になります。  
 それぞれ動作する状況で、これまでの作品を置いておく場として作成しています。
-
-## 仕事用アカウント ([Yuto-Yara](https://github.com/Yuto-Yara))
-
-<img src="https://ghchart.rshah.org/Yuto-Yara" alt="Yuto-Yara's GitHub Contribution Chart" />
